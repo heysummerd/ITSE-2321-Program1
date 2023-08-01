@@ -4,7 +4,7 @@ package program1;
 //
 //  Author:        Summer Davis
 //
-//  Program #:     One
+//  Program #:     1
 //
 //  File Name:     Program1.java
 //
