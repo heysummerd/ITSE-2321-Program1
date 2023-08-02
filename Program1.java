@@ -10,12 +10,6 @@ package program1;
 //
 //  Course:        ITSE 2321 Object-Oriented Programming
 //
-//  Due Date:      June 9, 2023
-//
-//  Instructor:    Prof. Fred Kumi 
-//
-//  Chapter:       Chapter 1
-//
 //  Description:   Program computes the tax and tip on a restaurant bill
 //				   for a patron with a $44.50 meal charge. 
 //				   - Displays meal cost, tax amount, tip amount, and total bill on the screen
